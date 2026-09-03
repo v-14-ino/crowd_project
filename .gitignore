@@ -1,0 +1,25 @@
+# Node and frontend artifacts
+node_modules/
+dist/
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Vite local config
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Do not ignore example env files
+!*.env.example
